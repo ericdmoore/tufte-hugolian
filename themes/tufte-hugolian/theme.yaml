@@ -1,0 +1,30 @@
+name : "Tufte Hugolian"
+description : "E.Tufte GOes Hugolian"
+
+homepage : https://github.com/ericdmoore/tufte-hugolian/
+licenselink : https://github.com/ericdmoore/tufte-hugoloian/blob/master/LICENSE
+
+license : "MIT"
+tags : 
+  - blog
+  - minimal
+  - tufte
+
+features : 
+  - responsive
+  - dark mode
+  - search
+
+author:
+  name : "Eric D Moore"
+  homepage : "//ericdmoore.com"
+
+ThemeParams:
+  first: 1
+  second: 2
+  Param:
+    - first
+    - second
+    - third
+
+min_version : "0.100.0"

@@ -1,0 +1,4 @@
+baseURL: https://ericdmoore.com
+languageCode : 'en-us'
+title : E.Tufte Hugolian
+theme: tufte-hugolian

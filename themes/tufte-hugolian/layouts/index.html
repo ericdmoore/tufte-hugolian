@@ -1,0 +1,7 @@
+<h1>{{ .Title }}</h1>
+<p>See Examples from  here </p>
+<ul>
+    {{ range .Sections }}
+        {{ printf . }} <!-- The . represents an element in $array -->
+    {{ end }}
+</ul>
